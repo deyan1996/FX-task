@@ -4,8 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
-FX-frontend.zip
-FX_Server.zip
+/FX-frontend.zip
+/FX_Server.zip
 
 # testing
 /coverage
